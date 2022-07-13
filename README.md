@@ -1,2 +1,4 @@
 # current-date-plugin
-# Once activated ,check the widgets section to drag and drop current-date widget to the section you want it to display on the website.For example if you want it to display on a sidebar or header section of a website.
+# Short code to display current date on pages or posts or anywhere on the website.
+#it uses short codes eg [current_date] to display the current day and time
+#easy to use just copy and paste short code inside Gutenberg block by searching for shortcodes and paste it.
